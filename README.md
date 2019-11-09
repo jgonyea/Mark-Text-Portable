@@ -1,4 +1,4 @@
-![](App\AppInfo\appicon_128.png)
+![](App/AppInfo/appicon_128.png)
 
 # Mark Text Portable Help
 
