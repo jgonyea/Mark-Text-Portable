@@ -1,5 +1,7 @@
 ![](App/AppInfo/appicon_128.png)
 
+Note: the upstream project has stalled in its development.  I would not recommend relying on this software.
+
 # Mark Text Portable Help
 
 ## A Simple and Elegant Markdown Editor
